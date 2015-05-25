@@ -32,6 +32,16 @@ Option 2:
 	- Go inside the folder and right-click to go to the terminal.
 	- Now your terminal is opened in this extracted folder.
 
+# Keyboard Azerty
+
+This only applies to a minority of people. When choosing for Belgium during installation you are asking an azerty keyboard.
+A mac keyboard is 90% the same. Here I will put the differences that I find.
+
+fn + Backspace 		delete
+alt + 1				|
+alt + 2				@
+alt + 3				#
+fn + F2				edit(function keys)
 
 
 #1 Apple MacBook Pro specifics
