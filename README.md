@@ -72,9 +72,14 @@ I made this my first step.
 
 Do not forget to type "./" in front of the name.
 
-If you think your computer gets to hot, you can always install also the fan daemon
+If you think your computer gets to hot, you can always install the macfan daemon
 
 	sudo apt-get install macfanctld
+
+Making sure the laptop goes to sleep when you close the lid you should install the following
+
+	sudo apt-get install laptop-mode-tools
+
 
 Open issues at the bottom
 
@@ -149,7 +154,7 @@ You should arrive at something similar depending on theme and icons choices:
 
 # Open issues
 
-	- when closing lid computer does not suspend
+	- when closing lid computer does not suspend [SOLVED]
 	- brightness setting lighter at startup
 
 
