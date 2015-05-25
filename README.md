@@ -37,7 +37,7 @@ Option 2:
 This only applies to a minority of people. When choosing for Belgium during installation you are asking an azerty keyboard.
 A mac keyboard is 90% the same. Here I will put the differences that I find.
 
-fn + Backspace 		delete
+fn + Backspace 	=	delete
 
 alt + 1		=		|
 
