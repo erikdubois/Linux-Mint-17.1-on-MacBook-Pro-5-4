@@ -72,6 +72,12 @@ I made this my first step.
 
 Do not forget to type "./" in front of the name.
 
+If you think your computer gets to hot, you can always install also the fan daemon
+
+	sudo apt-get install macfanctld
+
+
+
 
 #2 Kernel, Nvidia and Cinnamon
 
