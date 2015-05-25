@@ -61,6 +61,7 @@ Do not forget to type "./" in front of the name.
 #2 Kernel, Nvidia and Cinnamon
 
 As described at http://erikdubois.be/linux/the-ultimate-linux-mint-update I try to get the latest of everything. This attitude tends to break things. You have been warned. But the best way to learn about linux.
+In the above article you can check if you can get a linux kernel that is even newer and copy/paste the newer link locations in the script.
 
 I have written a script to automate my installation for my macbook laptop.
 
