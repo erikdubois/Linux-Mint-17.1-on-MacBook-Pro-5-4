@@ -2,6 +2,8 @@
 
 No dualboot. Just linux!
 
+Just install Linux Mint like you normally would. I use an usb.
+
 ![Screenshots](http://erikdubois.be/wp-content/uploads/2015/05/linuxmint17_1onmacbook1.jpg)
 
 
