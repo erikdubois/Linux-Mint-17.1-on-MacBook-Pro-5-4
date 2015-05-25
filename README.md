@@ -22,8 +22,10 @@ Option 1:
 
 Option 2:
 
-	- You can run that by downloading the zip file from github. Go to the download folder and right-click to Extract here.
-	- Go inside the folder and right-click to go to the terminal. Now your terminal is opened in this extracted folder.
+	- You can run that by downloading the zip file from github. 
+	- Go to the download folder and right-click to Extract here.
+	- Go inside the folder and right-click to go to the terminal.
+	- Now your terminal is opened in this extracted folder.
 
 
 
