@@ -76,7 +76,7 @@ If you think your computer gets to hot, you can always install also the fan daem
 
 	sudo apt-get install macfanctld
 
-
+Open issues at the bottom
 
 
 #2 Kernel, Nvidia and Cinnamon
@@ -146,6 +146,11 @@ You should arrive at something similar depending on theme and icons choices:
 
 ![Screenshots](http://erikdubois.be/wp-content/uploads/2015/02/pimp_linux_mint.jpg)
 
+
+# Open issues
+
+	- when closing lid computer does not suspend
+	- brightness setting lighter at startup
 
 
 Then you take the script apart and you write your own code.
