@@ -1,9 +1,12 @@
-# Linux-Mint-17.1-on-MacBook-Pro-5-4
+# Linux Mint 17.1 on MacBook Pro 5,4
+
+No dualboot. Just linux!
 
 ![Screenshots](http://erikdubois.be/wp-content/uploads/2015/05/linuxmint17_1onmacbook1.jpg)
 
 
 ![Screenshots](http://erikdubois.be/wp-content/uploads/2015/02/pimp_linux_mint.jpg)
+
 
 This is my way of working when installing a new operating system.
 
@@ -104,6 +107,12 @@ Install conky-manager that will make life easy.
 
 Start up conky-manager and choose the conky to your liking.
 
+
+#4 Theming
+
+All theming have been concentrated in a new script at
+
+https://github.com/erikdubois/themes-icons-pack
 
 
 You should arrive at something similar depending on theme and icons choices: 
