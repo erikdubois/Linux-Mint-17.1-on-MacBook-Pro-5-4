@@ -38,10 +38,15 @@ This only applies to a minority of people. When choosing for Belgium during inst
 A mac keyboard is 90% the same. Here I will put the differences that I find.
 
 fn + Backspace 		delete
+
 alt + 1				|
+
 alt + 2				@
+
 alt + 3				#
+
 fn + F2				edit(function keys)
+
 
 
 #1 Apple MacBook Pro specifics
