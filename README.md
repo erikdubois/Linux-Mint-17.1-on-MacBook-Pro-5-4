@@ -39,13 +39,13 @@ A mac keyboard is 90% the same. Here I will put the differences that I find.
 
 fn + Backspace 		delete
 
-alt + 1				|
+alt + 1		=		|
 
-alt + 2				@
+alt + 2		=		@
 
-alt + 3				#
+alt + 3		=		#
 
-fn + F2				edit(function keys)
+fn + F2		=		edit(function keys)
 
 
 
