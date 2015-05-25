@@ -129,7 +129,7 @@ You should arrive at something similar depending on theme and icons choices:
 
 Then you take the script apart and you write your own code.
 
-This github script is explained more in depth on my website.
+Check out this article as well as it is related to this github.
 
 http://erikdubois.be/linux/the-ultimate-linux-mint-update
 
