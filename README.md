@@ -1,6 +1,6 @@
 # Linux-Mint-17.1-on-MacBook-Pro-5-4
 
-![Screenshots](http://erikdubois.be/wp-content/uploads/2015/05/final_linuxmint171.png)
+![Screenshots](http://erikdubois.be/wp-content/uploads/2015/05/linuxmint17_1onmacbook1.png)
 
 
 ![Screenshots](http://erikdubois.be/wp-content/uploads/2015/02/pimp_linux_mint.jpg)
