@@ -4,10 +4,10 @@ No dualboot. Just linux!
 
 Just install Linux Mint like you normally would. I use an usb.
 
-![Screenshots](http://erikdubois.be/wp-content/uploads/2015/05/linuxmint17_1onmacbook1.jpg)
+![Screenshots](http://i.imgur.com/kIOvovF.jpg)
 
 
-![Screenshots](http://erikdubois.be/wp-content/uploads/2015/02/pimp_linux_mint.jpg)
+![Screenshots](http://i.imgur.com/AFqA2Dz.jpg)
 
 
 This is my way of working when installing a new operating system.
@@ -143,7 +143,7 @@ http://sourceforge.net/projects/auroraconkytheme/.
 
 Installation is described at 
 
-http://erikdubois.be/category/conky
+http://erikdubois.be/category/linux/aurora-conky/
 
 In this downloadfolder you will find an installationscript as well i.e. Auto_LinuxMint_Rebecca_cinnamon_aurora.sh
 
@@ -168,10 +168,8 @@ https://github.com/erikdubois/themes-icons-pack
 
 You should arrive at something similar depending on theme and icons choices: 
 
-![Screenshots](http://erikdubois.be/wp-content/uploads/2015/05/linuxmint17_1onmacbook22.jpg)
+![Screenshots](http://i.imgur.com/vGfZURy.jpg)
 
-
-![Screenshots](http://erikdubois.be/wp-content/uploads/2015/02/pimp_linux_mint.jpg)
 
 
 # Open issues
@@ -184,7 +182,7 @@ Then you take the script apart and you write your own code.
 
 Check out this article as well as it is related to this github.
 
-http://erikdubois.be/linux/the-ultimate-linux-mint-update
+http://erikdubois.be/the-ultimate-linux-mint-update/
 
 ------------------------------------
 #But that is the fun in Linux.
